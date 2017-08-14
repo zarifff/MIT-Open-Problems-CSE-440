@@ -1,3 +1,6 @@
+#Name: Mohammad Zariff Ahsham Ali
+#Simple on the fly tic-tac-toe sim. Assumes random positions
+
 import matplotlib.pyplot as plt
 from random import randint
 
