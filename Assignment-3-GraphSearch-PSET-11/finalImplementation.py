@@ -1,7 +1,7 @@
 # Problem Set 11SC: Graph optimization
 # Example Problem: Finding shortest paths through MIT buildings
 # Name: Mohammad Ehsanul Karim
-# Collaborators: None
+# Collaborators: Mohammad Zariff Ahsham Ali, Abu Mohammad Shabbir Khan
 # Start: July 21, 2016; 11:41pm
 
 import Queue
