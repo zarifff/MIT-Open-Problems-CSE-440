@@ -1,0 +1,2 @@
+Assignment 3 - Graph Search
+We also implemented Dynamic Programming and A* Search
